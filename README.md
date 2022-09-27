@@ -1,5 +1,5 @@
 ### Hi there 👋 My name is Doğu Eşrefoğlu
-> “Crypto Enthusiast & Testnet Node Runner.”
+> “Blockchain Enthusiast & Testnet Node Runner.”
 ### Contact Me
 
 > 🌐 [Website] (soon) | 💬 [Discord](https://discordapp.com/users/538816066873196545) | ✨ [Twitter](https://twitter.com/doguesrefoglu91)

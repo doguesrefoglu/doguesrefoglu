@@ -2,9 +2,7 @@
 > “Blockchain Enthusiast & Node Runner.”
 ### Contact Me
 
-> 🌐 [Website] (soon) | 💬 [Discord](https://discordapp.com/users/538816066873196545) | ✨ [Twitter](https://twitter.com/doguesrefoglu91)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=doguesrefoglu)](https://github.com/doguesrefoglu/github-readme-stats)
+> 🌐 [Website] (soon) | 💬 [Discord](https://discordapp.com/users/538816066873196545) | ✨ [Twitter](https://twitter.com/doguesrefoglu91) | ✍🏻Medium(https://dogubey.medium.com/)
 
 ### Viewers
 > <img align="top" src="https://komarev.com/ghpvc/?username=nodesxploit&color=blue"/>

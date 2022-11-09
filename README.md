@@ -1,7 +1,6 @@
 ### Hi there 👋 My name is Doğu Eşrefoğlu
 > “Blockchain Enthusiast & Node Runner.”
 ### Contact Me
-![image](https://user-images.githubusercontent.com/77311088/200885229-5969f821-4571-4ccc-bd60-507d0ba770a5.png)
 
 > 🌐 [Website] (soon) | 💬 [Discord](https://discordapp.com/users/538816066873196545) | ✨ [Twitter](https://twitter.com/doguesrefoglu91)
 

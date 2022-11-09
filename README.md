@@ -2,7 +2,7 @@
 > “Blockchain Enthusiast & Node Runner.”
 ### Contact Me
 
-> 🌐 [Website] (soon) | 💬 [Discord](https://discordapp.com/users/538816066873196545) | ✨ [Twitter](https://twitter.com/doguesrefoglu91) | ✍🏻[Medium](https://dogubey.medium.com/)
+> 🌐 [Website](https://www.xyznodes.xyz) | 💬 [Discord](https://discordapp.com/users/538816066873196545) | ✨ [Twitter](https://twitter.com/doguesrefoglu91) | ✍🏻 [Medium](https://dogubey.medium.com/)
 
 ### Viewers
 > <img align="top" src="https://komarev.com/ghpvc/?username=nodesxploit&color=blue"/>

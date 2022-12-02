@@ -18,5 +18,4 @@ Node Runner & Blockchain Enthusiast
 ### Testnet
 
 <p align="left">
-<a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://static.wixstatic.com/media/2e38a3_1f2218eb48d54310aa953ab90e314df8~mv2.png/v1/fill/w_80,h_80,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/2e38a3_1f2218eb48d54310aa953ab90e314df8~mv2.png" width="36" height="36" alt="Go" /></a>
-</p><br><a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://static.wixstatic.com/media/2e38a3_1f2218eb48d54310aa953ab90e314df8~mv2.png/v1/fill/w_80,h_80,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/2e38a3_1f2218eb48d54310aa953ab90e314df8~mv2.png" width="36" height="36" alt="Go" /></a>
+<a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://static.wixstatic.com/media/2e38a3_1f2218eb48d54310aa953ab90e314df8~mv2.png/v1/fill/w_80,h_80,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/2e38a3_1f2218eb48d54310aa953ab90e314df8~mv2.png" width="36" height="36" alt="Go" /></a><br><a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://static.wixstatic.com/media/2e38a3_1f2218eb48d54310aa953ab90e314df8~mv2.png/v1/fill/w_80,h_80,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/2e38a3_1f2218eb48d54310aa953ab90e314df8~mv2.png" width="36" height="36" alt="Go" /></a>
